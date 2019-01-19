@@ -1,0 +1,65 @@
+﻿  Board.cpp
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\board.cpp(6): error C2653: 'Board': is not a class or namespace name
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\board.cpp(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\board.cpp(7): error C3861: 'reset': identifier not found
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\board.cpp(8): warning C4508: 'Board': function should return a value; 'void' return type assumed
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\board.cpp(10): error C2510: 'Board': left of '::' must be a class/struct/union
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\board.cpp(11): error C2065: 'BOARD_HEIGHT': undeclared identifier
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\board.cpp(12): error C2065: 'BOARD_WIDTH': undeclared identifier
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\board.cpp(13): error C2065: 'cells': undeclared identifier
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\board.cpp(18): error C2510: 'Board': left of '::' must be a class/struct/union
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\board.cpp(19): error C2065: 'BOARD_WIDTH': undeclared identifier
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\board.cpp(21): error C2065: 'BOARD_HEIGHT': undeclared identifier
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\board.cpp(22): error C2065: 'cells': undeclared identifier
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\board.cpp(23): error C2065: 'cells': undeclared identifier
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\board.cpp(29): error C2510: 'Board': left of '::' must be a class/struct/union
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\board.cpp(30): error C2065: 'BOARD_HEIGHT': undeclared identifier
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\board.cpp(31): error C2065: 'BOARD_WIDTH': undeclared identifier
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\board.cpp(32): error C2065: 'cout': undeclared identifier
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\board.cpp(32): error C2065: 'cells': undeclared identifier
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\board.cpp(33): error C2065: 'cout': undeclared identifier
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\board.cpp(35): error C2065: 'cout': undeclared identifier
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\board.cpp(35): error C2065: 'endl': undeclared identifier
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\board.cpp(39): error C2510: 'Board': left of '::' must be a class/struct/union
+  Cell.cpp
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\cell.cpp(5): error C2653: 'Cell': is not a class or namespace name
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\cell.cpp(5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\cell.cpp(6): error C3861: 'setColor': identifier not found
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\cell.cpp(7): warning C4508: 'Cell': function should return a value; 'void' return type assumed
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\cell.cpp(9): error C2510: 'Cell': left of '::' must be a class/struct/union
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\cell.cpp(10): error C2065: 'color': undeclared identifier
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\cell.cpp(13): error C2510: 'Cell': left of '::' must be a class/struct/union
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\cell.cpp(14): error C2065: 'color': undeclared identifier
+  ConsoleTicTacToe.cpp
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\consoletictactoe.cpp(7): fatal error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+  GameManager.cpp
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\gamemanager.cpp(6): error C2653: 'GameManager': is not a class or namespace name
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\gamemanager.cpp(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\gamemanager.cpp(7): error C3861: 'reset': identifier not found
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\gamemanager.cpp(8): warning C4508: 'GameManager': function should return a value; 'void' return type assumed
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\gamemanager.cpp(10): error C2510: 'GameManager': left of '::' must be a class/struct/union
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\gamemanager.cpp(11): error C2065: 'gameFinished': undeclared identifier
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\gamemanager.cpp(12): error C2065: 'board': undeclared identifier
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\gamemanager.cpp(13): error C2065: 'player': undeclared identifier
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\gamemanager.cpp(16): error C2510: 'GameManager': left of '::' must be a class/struct/union
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\gamemanager.cpp(17): error C2065: 'board': undeclared identifier
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\gamemanager.cpp(20): error C2510: 'GameManager': left of '::' must be a class/struct/union
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\gamemanager.cpp(21): error C2065: 'board': undeclared identifier
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\gamemanager.cpp(24): error C2065: 'cout': undeclared identifier
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\gamemanager.cpp(24): error C2065: 'endl': undeclared identifier
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\gamemanager.cpp(25): error C2065: 'cin': undeclared identifier
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\gamemanager.cpp(26): error C2065: 'board': undeclared identifier
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\gamemanager.cpp(26): error C2065: 'player': undeclared identifier
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\gamemanager.cpp(27): error C3861: 'switchPlayer': identifier not found
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\gamemanager.cpp(30): error C2065: 'gameFinished': undeclared identifier
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\gamemanager.cpp(32): error C2065: 'cout': undeclared identifier
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\gamemanager.cpp(32): error C2065: 'endl': undeclared identifier
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\gamemanager.cpp(35): error C2065: 'cout': undeclared identifier
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\gamemanager.cpp(35): error C2065: 'endl': undeclared identifier
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\gamemanager.cpp(41): error C2510: 'GameManager': left of '::' must be a class/struct/union
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\gamemanager.cpp(42): error C2065: 'gameFinished': undeclared identifier
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\gamemanager.cpp(45): error C2510: 'GameManager': left of '::' must be a class/struct/union
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\gamemanager.cpp(46): error C2065: 'player': undeclared identifier
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\gamemanager.cpp(47): error C2065: 'player': undeclared identifier
+c:\users\5601r\source\repos\consoletictactoe\consoletictactoe\gamemanager.cpp(50): error C2065: 'player': undeclared identifier
+  Generating Code...
